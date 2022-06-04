@@ -5,6 +5,7 @@ article{
 
 article div{
     width: 100%;
+    font-size: 1em;
 }
 nav{
     display: flex;
@@ -14,5 +15,9 @@ nav{
 
 h1{
     text-align: center;
-    color: red;
+}
+
+body{
+    background-color: #363537;
+    color: #89A7A7;
 }
