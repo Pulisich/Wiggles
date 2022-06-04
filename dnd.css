@@ -1,0 +1,17 @@
+article{
+    display: flex;
+    flex-direction: row;
+}
+
+article div{
+    width: 100%;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+h1{
+    text-align: center;
+}
